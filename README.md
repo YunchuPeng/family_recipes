@@ -1,4 +1,4 @@
-# Peng's Clan secret recipes
+# Peng's Clan mysterious recipes
 
 Set of recipes as given by my grandma.
 
